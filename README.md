@@ -10,7 +10,7 @@ The homework notebooks are as follows:
 [hw-wk3](hw-wk3.ipynb) - Logistic Regression  
 [hw-wk4](hw-wk4.ipynb) - Neural Networks  
 [hw-wk6](hw-wk6.ipynb) - Bias-Variance, Learning Curves, Validation Curves 
-[hw-wk7](hw-wk7-spam.ipynb) - Support Vector Machines (SVM)  
+[hw-wk7](hw-wk7-spam.ipynb) - Support Vector Machines (SVM)    
 [hw-wk7-spam-preprocessing](hw-wk7-spam-preprocessing.ipynb) and [hw-wk7-spam-svm](hw-wk7-spam-svm.ipynb) - Spam Classification with NLP and SVM  
 [hw-wk8](hw-wk8.ipynb) - K-Means Clustering and Principle Component Analysis (PCA)  
 [hw-wk9-anomaly](hw-wk9-anomaly.ipynb) - Anomaly Detection  
